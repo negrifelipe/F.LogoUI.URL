@@ -6,13 +6,13 @@ namespace F.LogoUI
     {
         public ushort LogoUI;
         public string LogoURL;
-        public bool LogoEnbled;
+        public bool LogoEnabled;
 
         public void LoadDefaults()
         {
             LogoUI = (ushort)32410;
             LogoURL = "https://i.imgur.com/0M2kAwf.png";
-            LogoEnbled = true;
+            LogoEnabled = true;
         }
     }
 }
