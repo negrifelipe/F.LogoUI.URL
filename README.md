@@ -5,6 +5,7 @@ This unturned plugin allows you to put a Logo in your server with the logo url
 
 F.Plugins Discord Support: https://discord.gg/8zded6r
 
+Plugin Download: https://github.com/01-Feli/F.LogoUI.URL/releases
 # Configuration File
 ```
 <?xml version="1.0" encoding="utf-8"?>
