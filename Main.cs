@@ -26,7 +26,7 @@ namespace F.LogoUI
 
         private void Events_OnPlayerConnected(UnturnedPlayer player)
         {
-            if(this.Configuration.Instance.LogoEnbled == false)
+            if(this.Configuration.Instance.LogoEnabled == false)
             {
                 return;
             }
