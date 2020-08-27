@@ -13,3 +13,16 @@ F.Plugins Discord Support: https://discord.gg/8zded6r
   <LogoEnabled>true</LogoEnabled>
 </Config>
 ```
+
+# How to use it
+
+1 Upload your logo to [Imgur](https://imgur.com/)
+2 Then copy the logo url
+3 Then paste it in <LogoURL>https://i.imgur.com/7CP4RkP.png</LogoURL>
+
+# How to Disable it
+1 just put false in <LogoEnabled>true</LogoEnabled>
+
+# Workshop Mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2211396196
+
