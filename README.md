@@ -11,7 +11,7 @@ Plugin Download: https://github.com/01-Feli/F.LogoUI.URL/releases
 <?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <LogoUI>32410</LogoUI>
-  <LogoURL>https://i.imgur.com/7CP4RkP.png</LogoURL>
+  <LogoURL>https://i.imgur.com/9eou3qL.png</LogoURL>
   <LogoEnabled>true</LogoEnabled>
 </Config>
 ```
