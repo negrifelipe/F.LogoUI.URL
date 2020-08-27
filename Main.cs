@@ -19,7 +19,7 @@ namespace F.LogoUI
             Logger.Log("#                 F.LogoUI Loaded                  #", ConsoleColor.Red);
             Logger.Log("#                 Plugin By: Feli                  #", ConsoleColor.Red);
             Logger.Log("#    Discord Support:https://discord.gg/6zQVJ9p    #", ConsoleColor.Red);
-            Logger.Log("#                 Plugin Ver: 1.0.0                #", ConsoleColor.Red);
+            Logger.Log("#                 Plugin Ver: 1.0.1                #", ConsoleColor.Red);
             Logger.Log("####################################################", ConsoleColor.Red);
             U.Events.OnPlayerConnected += Events_OnPlayerConnected;
         }
