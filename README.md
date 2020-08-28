@@ -25,7 +25,7 @@ Plugin Download: https://github.com/01-Feli/F.LogoUI.URL/releases
 3 Then paste it in <LogoURL>
 
 # How to Disable it
-1 just put false in <LogoEnabled>true</LogoEnabled>
+1 just put false in <LogoEnabled>
 
 # Workshop Mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2211396196
