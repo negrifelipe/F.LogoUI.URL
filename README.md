@@ -1,5 +1,6 @@
 # F.LogoUI.URL
-![Discord](https://img.shields.io/discord/742861338233274418?label=Discord&logo=Discord)
+![Discord](https://img.shields.io/discord/742861338233274418?label=Discord&logo=Discord) [![Github All Releases](https://img.shields.io/github/downloads/F.LogoUI.URL/F.LogoUI.URL/total.svg)]()
+
 
 This unturned plugin allows you to put a Logo in your server with the logo url
 
